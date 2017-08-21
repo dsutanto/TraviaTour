@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Travia</string>
+
+    //Login Label
+    <string name="login_label">Email</string>
+    <string name="pass_label">Password</string>
+
+    //Navigation Label
+    <string name="home_nav">Home</string>
+    <string name="booking_nav">My Booking</string>
+    <string name="account_nav">My Account</string>
+
+    //Tour Search Label
+    <string name="find_tour_label">Find Tour</string>
+    <string name="date_start_label">Start Date</string>
+    <string name="date_end_label">End Date</string>
+    <string name="pickup_location_label">Pickup Location</string>
+    <string name="total_guest_label">Total Guest</string>
+</resources>
